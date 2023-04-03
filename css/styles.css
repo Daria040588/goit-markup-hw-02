@@ -11,20 +11,18 @@
   --grey: #2e2f42;
   --white: #ffffff;
   --dairy: #fcfcfc;
+  font-family: Roboto, Ralevay;
+}
+
+body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  position: relative;
   font-weight: 400;
   font-size: 16px;
   font-weight: 1.5;
   letter-spacing: 0.02em;
-}
-
-body {
-  font-family: Roboto, Ralevay;
-  color: #434455;
-  background-color: #fff;
-  position: relative;
-  width: 1440px;
-  height: 2592px;
   font-style: normal;
 }
 /* header */
@@ -43,15 +41,6 @@ body {
   color: var(--iris);
 }
 .logo-span {
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.5;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--navy-blue);
 }
 .link {
