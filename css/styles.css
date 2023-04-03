@@ -22,7 +22,10 @@ body {
 /* header */
 .header {
 }
-
+.link:hover,
+.link:focus {
+  color: var(--ocean);
+}
 .link {
   text-decoration: none;
 }
@@ -76,7 +79,10 @@ body {
   color: var(--slate);
   text-decoration: none;
 }
-
+.link:hover,
+.link:focus {
+  color: var(--ocean);
+}
 .section-hero {
   background-color: var(--navy-blue);
 }
@@ -166,6 +172,10 @@ body {
 }
 .item-team {
   background-color: var(--white);
+}
+.subtitle {
+}
+.text {
 }
 
 /* portfolio */
