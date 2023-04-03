@@ -93,12 +93,6 @@ body {
   color: var(--ocean);
 }
 
-.link {
-  text-decoration: none;
-  font-style: normal;
-  color: currentColor;
-}
-
 .section-hero {
   background-color: var(--navy-blue);
 }
